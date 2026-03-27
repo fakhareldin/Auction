@@ -49,3 +49,4 @@ packages/backend/prisma/*.db-journal
 .cache/
 temp/
 tmp/
+FINAL_GUIDE.md
